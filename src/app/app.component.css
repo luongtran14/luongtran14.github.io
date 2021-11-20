@@ -1,0 +1,11 @@
+.main-nav-bar {
+  background-color: #fff;
+  width: inherit;
+  border-bottom: 1px solid black;
+  height: calc(4vw + 1rem);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
